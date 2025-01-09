@@ -1,3 +1,3 @@
 <<<<<<< HEAD
 
-# 5Paisa-Assessment-Image-Gallery-App
+# 5Paisa Assessment (Image Gallery App)
