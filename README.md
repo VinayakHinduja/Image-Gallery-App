@@ -1,5 +1,5 @@
 
-# 5Paisa Assessment (Image Gallery App)
+# Image Gallery App
 
 ## Overview
 
@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/0cde9e4a-60e5-4f6d-8d95-dbe75ef3940c
 
 ## How to Use 
 
-**For Android Devices:-** Download the apk file from Releases or [Download from here](https://github.com/VinayakHinduja/5Paisa-Assessment-Image-Gallery-App/releases/download/Release/Image-Gallery-release.apk).
+**For Android Devices:-** Download the apk file from Releases or [Download from here](https://github.com/VinayakHinduja/Image-Gallery-App/releases/download/Release/Image-Gallery-release.apk).
 
 **Step 1:**
 
